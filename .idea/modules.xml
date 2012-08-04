@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MongoDbHelloWorld.iml" filepath="$PROJECT_DIR$/MongoDbHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MongoDbHelloWorld-grailsPlugins.iml" filepath="$PROJECT_DIR$/MongoDbHelloWorld-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
